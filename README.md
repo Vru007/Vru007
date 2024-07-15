@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-My name is Vrushik Patel.<br><br>I’m a final year student of Indian Institute of Information Technology Kota pursuing Electronics and Communication Engineering. <br>Currently working on my unique web app (hint: A social app for developers with unique features will be live soon) and c++ libraries.<br>Delving deep into learning Next.js and TypeScript to discover the most optimized uses of this framework."<br>
+My name is Vrushik Patel.<br><br>I’m a final year student of Indian Institute of Information Technology Kota pursuing Electronics and Communication Engineering. <br>Currently working on my unique web app (hint: A social app for developers with unique features will be live soon) and c++ libraries.<br>Delving deep into learning Next.js and TypeScript to discover the most optimized uses of this framework.<br>
 
 
 ## 🌐 Socials:
